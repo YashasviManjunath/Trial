@@ -12,5 +12,6 @@
 <p>This line is here to show how merging works.</p>
 <div><img src="hello_git_img.jpg" alt="Hello Git" style="width:100%;max-width:640px"></div>
 
+HII THERE
 </body>
 </html>
